@@ -183,28 +183,6 @@ Predicted sales far exceed target with substantial buffer.
 | CURR_AGE | -0.131 | Slight Negative |
 | GENDER_M | +0.096 | Slight Positive |
 
-## Files Generated
-
-### Data Files
-- `data/processed/japanese_raw.csv` - Raw Japanese data
-- `data/processed/japanese_processed.csv` - Processed with features
-- `data/processed/indian_raw.csv` - Raw Indian data
-- `data/processed/indian_processed.csv` - Processed with features
-- `data/processed/indian_predictions.csv` - Predictions with probabilities
-
-### Model Files
-- `models/logistic_regression_model.pkl` - Trained model
-- `models/feature_scaler.pkl` - Feature scaler
-- `models/feature_names.txt` - Feature list
-
-### Tableau Files
-- `data/tableau/japanese_market.csv`
-- `data/tableau/indian_market.csv`
-- `data/tableau/market_comparison_summary.csv`
-
-### Reports
-- `reports/final_report.md` - Comprehensive business report
-
 ## Dependencies
 
 - pandas >= 2.0.0
@@ -216,11 +194,4 @@ Predicted sales far exceed target with substantial buffer.
 - joblib >= 1.3.0
 
 ## Contact
-
-For questions or additional analysis, contact the ABG Motors Data Science Team.
-
----
-
-**Analysis Date**: February 14, 2026  
-**Model Version**: 1.0  
-**Recommendation**: STRONG GO - Proceed with Indian market entry
+LinkedIn: www.linkedin.com/in/maddydas07
