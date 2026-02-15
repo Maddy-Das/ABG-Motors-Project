@@ -193,5 +193,8 @@ Predicted sales far exceed target with substantial buffer.
 - odfpy >= 1.4.1 (for ODS file reading)
 - joblib >= 1.3.0
 
+## Web_Site_Link
+   - link: https://tableau-quest-guide.lovable.app/
+
 ## Contact
 LinkedIn: www.linkedin.com/in/maddydas07
